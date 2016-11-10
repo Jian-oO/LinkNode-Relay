@@ -1,11 +1,14 @@
 # LinkNode
 
-此软件是linksprite继电器开关控制App
+added the two create relay methods:
 
-配合Web端使用，有两个添加方法：DIY与购买官方继电器扫描二维码添加
+1.Create DIY Device
 
-Web：www.linksprite.io/login
+2.Add Linkie Device
 
+Web-side:www.linksprite.io/login
+
+Related links：github.com/delongqilinksprite/LinkNodeR4-app
 
 
 
